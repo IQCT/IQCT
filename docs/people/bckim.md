@@ -1,6 +1,17 @@
-# Byung Chun Kim, Ph.D.
+# Byung Chun Kim (김병천, 金秉天)
 
 * Chief {Technical,Knowledge} Officer
+
+## Education
+
+- Feb., 2019: Ph.D., Dept. of Math., Inha Univ., Korea.
+  - Advisor: Yongjin Song
+  - Thesis: The embeddings of braid groups into mapping class groups and their homology
+- Aug., 2010: M.S., Dept. of Math., Inha Univ., Korea.
+  - Advisor: Yongjin Song
+  - Thesis: Three-fold Branched Covering Spaces over a Disk (원판의 세번접힌 분지 덮개 공간)
+- Aug., 2008: B.S., Dept. of Math., Inha Univ., Korea.
+- Apr., 2003: GED, Korea.
 
 ## Papers
 
