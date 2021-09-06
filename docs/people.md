@@ -6,16 +6,16 @@ We are under construction
 
 ## Chief Executive Officers
 
-### Kyungtaek Jun, Ph.D.
+* Kyungtaek Jun, Ph.D.
 
-### Hyunju Lee, Ph.D.
+* Hyunju Lee, Ph.D.
 
 ## Chief {Technical,Knowledge} Officer
 
-### Byung Chun Kim, Ph.D.
+* Byung Chun Kim, Ph.D.
 
 ## Directors
 
-### Youngpyo Ryu
+* Youngpyo Ryu
 
-### Jinhee Kim
+* Jinhee Kim
