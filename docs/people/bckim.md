@@ -1,13 +1,13 @@
-# Byung Chun Kim (김병천, 金秉天)
+# 김병천 (金秉天, Byung Chun Kim)
 
 * Chief {Technical,Knowledge} Officer
 
 
 ## Positions
 
-* Aug. 2021 - present: CTO/CKO, IQCT Inc., Korea.
-* Mar. 2019 - Aug. 2021: Postdoctoral Researcher, National Institute for Mathematical Sciences, Korea.
-* Mar. - Aug. 2018: Part-time Lecturer, Dept. of Math., Inha Univ., Korea.
+* Aug. 2021 - present: CTO/CKO, IQCT Inc., Seoul, Korea.
+* Mar. 2019 - Aug. 2021: Postdoctoral Researcher, National Institute for Mathematical Sciences (NIMS), Daejeon, Korea.
+* Mar. - Aug. 2018: Part-time Lecturer, Dept. of Math., Inha Univ., Incheon, Korea.
 
 
 ## Education
@@ -19,7 +19,7 @@
   - Advisor: Yongjin Song
   - Thesis: 원판의 세번접힌 분지 덮개 공간 (Three-fold Branched Covering Spaces over a Disk)
 - Aug. 2008: B.S., Dept. of Math., Inha Univ., Korea.
-- Apr. 2003: GED, Korea.
+- Apr. 2003: GED, Seoul, Korea.
 
 
 ## Publications
@@ -33,7 +33,7 @@
 
 ## Talks
 
-* Pay Attention to Transformer, Industry-Oriented Education Center, Korea Univ., Sejong, Korea, Feb. 2021.
+* Pay Attention to Transformer, Industry-Oriented Education Center, Korea Univ., Online, Feb. 2021.
 * 외상환자 치료 효과 향상을 위한 CT기반 폐손상 예측 모더레이터, NIMS 산업수학 문제해결 워크숍, Online, Dec. 2020.
 * Transfer Learning Tutorial, Industry-Oriented Education Center, Korea Univ., Sejong, Korea, Nov. 2020.
 * 식물 이미지 데이터에서의 개화 수 판별 프로그램 구축 교육 강연, NIMS 산업수학 아카데미, Bexco, Busan, Korea, Nov. 2020.
