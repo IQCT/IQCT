@@ -4,13 +4,13 @@ We are under construction
 
 
 
-## Chief Executive Officers
+## Co-CEOs
 
 * Kyungtaek Jun, Ph.D.
 
 * Hyunju Lee, Ph.D.
 
-## Chief {Technical,Knowledge} Officer
+## CTO/CKO
 
 * Byung Chun Kim, Ph.D.
 
