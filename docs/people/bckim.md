@@ -9,6 +9,7 @@
 * Aug. 2021 - present: CTO/CKO, IQCT Inc., Seoul, Korea.
 * Mar. 2019 - Aug. 2021: Postdoctoral Researcher, National Institute for Mathematical Sciences (NIMS), Daejeon, Korea.
 * Mar. - Aug. 2018: Part-time Lecturer, Dept. of Math., Inha Univ., Incheon, Korea.
+  * General Topology 1 (위상수학 1)
 
 
 ## Education
