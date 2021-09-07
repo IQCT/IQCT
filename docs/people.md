@@ -12,7 +12,7 @@ We are under construction
 
 ## CTO/CKO
 
-* Byung Chun Kim, Ph.D.
+* [Byung Chun Kim, Ph.D.](./people/bckim.html)
 
 ## Directors
 
