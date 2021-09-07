@@ -9,19 +9,19 @@
 * Aug. 2021 - present: CTO/CKO, IQCT Inc., Seoul, Korea.
 * Mar. 2019 - Aug. 2021: Postdoctoral Researcher, National Institute for Mathematical Sciences (NIMS), Daejeon, Korea.
 * Mar. - Aug. 2018: Part-time Lecturer, Dept. of Math., Inha Univ., Incheon, Korea.
-  * General Topology 1 (위상수학 1)
+  - General Topology 1 (위상수학 1)
 
 
 ## Education
 
-- Feb. 2019: Ph.D., Dept. of Math., Inha Univ., Korea.
+* Feb. 2019: Ph.D., Dept. of Math., Inha Univ., Korea.
   - Advisor: Yongjin Song
   - Thesis: The embeddings of braid groups into mapping class groups and their homology
-- Aug. 2010: M.S., Dept. of Math., Inha Univ., Korea.
+* Aug. 2010: M.S., Dept. of Math., Inha Univ., Korea.
   - Advisor: Yongjin Song
   - Thesis: 원판의 세번접힌 분지 덮개 공간 (Three-fold Branched Covering Spaces over a Disk)
-- Aug. 2008: B.S., Dept. of Math., Inha Univ., Korea.
-- Apr. 2003: GED, Seoul, Korea.
+* Aug. 2008: B.S., Dept. of Math., Inha Univ., Korea.
+* Apr. 2003: GED, Seoul, Korea.
 
 
 ## Publications
