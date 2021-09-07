@@ -1,6 +1,7 @@
 # 김병천 (金秉天, Byung Chun Kim)
 
-* Chief {Technical,Knowledge} Officer
+* Chief Technical Officer
+* Chief Knowledge Officer
 
 
 ## Positions
