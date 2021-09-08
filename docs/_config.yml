@@ -4,3 +4,5 @@ plugins:
 title: IQCT, Inc.
 description: Innovation on Quantum & CT
 show_downloads: false
+kramdown:
+  math_engine: mathjax
