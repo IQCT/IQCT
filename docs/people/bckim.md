@@ -1,10 +1,11 @@
 # 김병천 (金秉天, Byung Chun Kim)
 
+* Co-founder
 * Chief Technical Officer
 * Chief Knowledge Officer
 
 
-## Positions
+## Experiences
 
 * Aug. 2021 - present: CTO/CKO, IQCT Inc., Seoul, Korea.
 * Mar. 2019 - Aug. 2021: Postdoctoral Researcher, National Institute for Mathematical Sciences (NIMS), Daejeon, Korea.
