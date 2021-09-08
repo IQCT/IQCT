@@ -23,10 +23,6 @@ header img {
   float: right;
 }
 
-#a-logo {
-  text-decoration: none;
-}
-
 body {
 	font-family: D2Coding, 'D2 coding', monospace;
 }
@@ -45,4 +41,8 @@ a:link, a:visited {
 
 a:hover, a:active {
 	text-decoration: underline;
+}
+
+#a-logo {
+  text-decoration: none;
 }
