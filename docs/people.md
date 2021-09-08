@@ -6,13 +6,13 @@ We are under construction
 
 ## Co-CEOs
 
-* Kyungtaek Jun, Ph.D.
+* Kyungtaek Jun
 
-* Hyunju Lee, Ph.D.
+* Hyunju Lee
 
 ## CTO/CKO
 
-* [Byung Chun Kim, Ph.D.](./people/bckim.html)
+* [Byung Chun Kim](./people/bckim.html)
 
 ## Directors
 
