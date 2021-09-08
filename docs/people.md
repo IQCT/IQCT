@@ -1,5 +1,3 @@
-# People
-
 ## Co-CEOs
 
 * Kyungtaek Jun
