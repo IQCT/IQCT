@@ -26,8 +26,8 @@
 ## Publications
 
 * (with S. W. Park and Y. S. Won) An uncoupled approach to online state of charge and state of health estimation for a Lithium-ion battery, (2021)(Manuscript will submitting)
-* (with K. Jun, B. C. Kim et al.) [Quantum convolutional neural networks on NISQ processors](https://doi.org/10.1117/12.2594982). In Quantum Communications and Quantum Imaging XIX, Vol. 11835 (2021, Aug.), pp. 1183509.  International Society for Optics and Photonics.
-* (with S. Park and K. Kwon) [Two segmentation methods for the diagnosis of malignant melanoma](https://doi.org/10.28919/jmcs/5650), J. Math. Comput. Sci., 11 (2021), pp. 3361-3376
+* (with K. Jun, B. C. Kim et al.) [Quantum convolutional neural networks on NISQ processors](https://doi.org/10.1117/12.2594982). In Quantum Communications and Quantum Imaging XIX, Vol. 11835 (2021, Aug.), p. 1183509.  International Society for Optics and Photonics.
+* (with S. Park and K. Kwon) [Two segmentation methods for the diagnosis of malignant melanoma](https://doi.org/10.28919/jmcs/5650), J. Math. Comput. Sci., 11 (2021), 3361-3376
 * (with K. Kwon) [Diagnostic techniques for improved segmentation, feature extraction, and classification of malignant melanoma](https://doi.org/10.1007/s13534-019-00142-8), Biomedical Engineering Letters, 10(1)(2020) 171-179
 * (with K. Kwon) [A mathematical analysis of the ABCD criteria for diagnosing malignant melanoma](https://doi.org/10.1088/1361-6560/aa562f), Phys. Med. Biol., 62 (2017) 1865-1884
 
