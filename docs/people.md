@@ -1,7 +1,7 @@
 ## Co-CEOs
 * Kyungtaek Jun
 
-* Hyunju Lee
+* [Hyunju Lee](./people/hjlee.html)
 
 
 ## CTO/CKO
